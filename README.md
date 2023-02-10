@@ -1,4 +1,5 @@
-The PyCitySchools.ipynb file contained in this repository provides a number of summarising DataFrames, built from the merged school and student data provided in cvs format.
+#Pandas project
+This repo contains a jupyter notebook analysis of two .csv files that store hypothetical schools and students data. The anaylsis in the notebook has been done as a module assignment for the Data Analytics and Visualisation bootcamp I am doing.
 
 DataFrames of interest include: 
 
@@ -17,5 +18,7 @@ From these extrapolations, we can conclude:
 A school's per-student spend does not appear to impact student results. In fact the 'overall pass' rate was the lowest amongst students in the highest spending bracket.
 
 School size on the other hand does appear to be associated with student results. Specifically, small and medium schools show greater passing rates than those of larger schools in maths, english and overall - by a number of percentage points.
+
+## How to run
 
 
